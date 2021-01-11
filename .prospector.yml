@@ -1,4 +1,4 @@
 pep257:
-  run:true
+  run: true
   disable:
     - D213
