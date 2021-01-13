@@ -1,4 +1,4 @@
-import _httpoxy
+import httpoxy
 
 
 print("hello");
