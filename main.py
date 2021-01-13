@@ -1,3 +1,4 @@
+ import _httpoxy
 
 def square(a):
   """item_exporters.py contains Scrapy   item exporters.
